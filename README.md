@@ -2,9 +2,9 @@
 [From Shadow Generation to Shadow Removal.]()
 
 ```
-@toappear{liu2021shadow,
-  title={Shadow Removal by a Lightness-Guided Network with Training on Unpaired Data},
-  author={Liu, Zhihao and Yin, Hui and Mi, Yang and Pu, Mengyang and Wang, Song},
+@toappear{liu2021from,
+  title={From Shadow Generation to Shadow Removal},
+  author={Liu, Zhihao and Yin, Hui and Wu, Xinyi and Wu, Zhenyao and Mi, Yang and Wang, Song},
   journal=CVPR,
   year={2021}
 }
