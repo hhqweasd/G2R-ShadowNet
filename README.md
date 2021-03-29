@@ -1,5 +1,5 @@
 # G2R-ShadowNet
-[From Shadow Generation to Shadow Removal.]()
+[From Shadow Generation to Shadow Removal.](https://arxiv.org/abs/2103.12997)
 
 ```
 @toappear{liu2021from,
@@ -15,6 +15,13 @@ This code uses the following libraries
 - python 3.7+
 - pytorch 1.1+ & tochvision
 - scikit-image
+
+## Results of LG-ShadowNet
+
+GoogleDrive: [AISTD](https://drive.google.com/file/d/1qDhKWeihp6dqzINrtdkwc4SIkzx42yx3/view?usp=sharing)
+
+BaiduNetdisk: [AISTD](https://pan.baidu.com/s/1fQ4f6zFBkqUwnimA4k1M1A)(Access code: 1111)
+
 
 ## Acknowledgments
 Code is implemented based on [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN) and [LG-ShadowNet](https://github.com/hhqweasd/LG-ShadowNet).
