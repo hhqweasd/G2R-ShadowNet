@@ -18,10 +18,18 @@ This code uses the following libraries
 
 ## Results of G2R-ShadowNet
 
-GoogleDrive: [AISTD](https://drive.google.com/file/d/1qDhKWeihp6dqzINrtdkwc4SIkzx42yx3/view?usp=sharing)
+GoogleDrive: [ISTD](https://drive.google.com/file/d/1qDhKWeihp6dqzINrtdkwc4SIkzx42yx3/view?usp=sharing)
 
-BaiduNetdisk: [AISTD](https://pan.baidu.com/s/1fQ4f6zFBkqUwnimA4k1M1A)(Access code: 1111)
+BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1fQ4f6zFBkqUwnimA4k1M1A)(Access code: 1111)
 
+
+# ISTD Results (size: 480x640)
+| Method | Shadow Region | Non-shadow Region | All |
+|:-----|:-----:|:-----:|------|
+| [Le & Samaras (ECCV20)](https://github.com/hhqweasd/LG-ShadowNet) | 11.3 | 3.7 | 4.8 |
+| G2R-ShadowNet (Ours) | 9.6 | 3.8 | 4.7 |
+
+Results in shadow and non-shadow regions are computed on each image first and then compute the average of all images in terms of RMSE.
 
 ## Acknowledgments
 Code is implemented based on [Mask-ShadowGAN](https://github.com/xw-hu/Mask-ShadowGAN) and [LG-ShadowNet](https://github.com/hhqweasd/LG-ShadowNet).
