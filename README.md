@@ -23,7 +23,7 @@ GoogleDrive: [ISTD](https://drive.google.com/file/d/1qDhKWeihp6dqzINrtdkwc4SIkzx
 BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1fQ4f6zFBkqUwnimA4k1M1A) (Access code: 1111)
 
 
-# ISTD Results (size: 480x640)
+## ISTD Results (size: 480x640)
 | Method | Shadow Region | Non-shadow Region | All |
 |:-----|:-----:|:-----:|------|
 | [Le & Samaras (ECCV20)](https://github.com/lmhieu612/FSS2SR) | 11.3 | 3.7 | 4.8 |
