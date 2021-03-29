@@ -16,7 +16,7 @@ This code uses the following libraries
 - pytorch 1.1+ & tochvision
 - scikit-image
 
-## Results of LG-ShadowNet
+## Results of G2R-ShadowNet
 
 GoogleDrive: [AISTD](https://drive.google.com/file/d/1qDhKWeihp6dqzINrtdkwc4SIkzx42yx3/view?usp=sharing)
 
