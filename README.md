@@ -20,7 +20,7 @@ This code uses the following libraries
 
 GoogleDrive: [ISTD](https://drive.google.com/file/d/1qDhKWeihp6dqzINrtdkwc4SIkzx42yx3/view?usp=sharing)
 
-BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1fQ4f6zFBkqUwnimA4k1M1A)(Access code: 1111)
+BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1fQ4f6zFBkqUwnimA4k1M1A) (Access code: 1111)
 
 
 # ISTD Results (size: 480x640)
