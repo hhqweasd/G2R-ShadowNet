@@ -26,7 +26,7 @@ BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1fQ4f6zFBkqUwnimA4k1M1A) (Access co
 # ISTD Results (size: 480x640)
 | Method | Shadow Region | Non-shadow Region | All |
 |:-----|:-----:|:-----:|------|
-| [Le & Samaras (ECCV20)](https://github.com/hhqweasd/LG-ShadowNet) | 11.3 | 3.7 | 4.8 |
+| [Le & Samaras (ECCV20)](https://github.com/lmhieu612/FSS2SR) | 11.3 | 3.7 | 4.8 |
 | G2R-ShadowNet (Ours) | 9.6 | 3.8 | 4.7 |
 
 Results in shadow and non-shadow regions are computed on each image first and then compute the average of all images in terms of RMSE.
