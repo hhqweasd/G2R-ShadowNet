@@ -16,6 +16,19 @@ This code uses the following libraries
 - pytorch 1.1+ & tochvision
 - scikit-image
 
+## Train and test on the adjusted ISTD dataset
+Train 
+1. Set the path of the dataset in ```train.py```
+2. Run ```train.py```
+
+Test   
+1. Set the paths of the dataset and saved models ```(netG_1.pth)``` and ```(netG_2.pth)``` in ```test.py```
+2. Run ```test.py```
+
+## Evaluate
+1. Set the paths of the shadow removal results and the dataset in ```evaluate.m```
+2. Run ```evaluate.m```
+
 ## The Best Models on ISTD
 
 GoogleDrive: [ISTD](https://drive.google.com/file/d/1uSqGRbSXm12dpNIfaSsVYdQW4ifYbgw0/view?usp=sharing)
