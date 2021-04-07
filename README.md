@@ -2,10 +2,10 @@
 [From Shadow Generation to Shadow Removal.](https://arxiv.org/abs/2103.12997)
 
 ```
-@toappear{liu2021from,
+@article{liu2021from,
   title={From Shadow Generation to Shadow Removal},
   author={Liu, Zhihao and Yin, Hui and Wu, Xinyi and Wu, Zhenyao and Mi, Yang and Wang, Song},
-  journal=CVPR,
+  journal={arXiv preprint arXiv:2103.12997},
   year={2021}
 }
 ```
