@@ -16,7 +16,14 @@ This code uses the following libraries
 - pytorch 1.1+ & tochvision
 - scikit-image
 
-## Results of G2R-ShadowNet
+## The Best Models on ISTD
+
+GoogleDrive: [ISTD](https://drive.google.com/file/d/1uSqGRbSXm12dpNIfaSsVYdQW4ifYbgw0/view?usp=sharing)
+
+BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1QJx-ccmE4-pQWK0v9nA00g) (Access code: 1111)
+
+ 
+## Results of G2R-ShadowNet on ISTD
 
 GoogleDrive: [ISTD](https://drive.google.com/file/d/1qDhKWeihp6dqzINrtdkwc4SIkzx42yx3/view?usp=sharing)
 
