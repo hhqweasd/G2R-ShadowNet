@@ -1,15 +1,6 @@
 # G2R-ShadowNet
 [From Shadow Generation to Shadow Removal.](https://arxiv.org/abs/2103.12997)
 
-```
-@article{liu2021from,
-  title={From Shadow Generation to Shadow Removal},
-  author={Liu, Zhihao and Yin, Hui and Wu, Xinyi and Wu, Zhenyao and Mi, Yang and Wang, Song},
-  journal={arXiv preprint arXiv:2103.12997},
-  year={2021}
-}
-```
-
 ## Dependencies
 This code uses the following libraries
 - python 3.7+
@@ -56,7 +47,18 @@ Code is implemented based on [Mask-ShadowGAN](https://github.com/xw-hu/Mask-Shad
 
 All codes will be released to public soon.
 
+```
+@inproceedings{liu2021from,
+  title={From Shadow Generation to Shadow Removal},
+  author={Liu, Zhihao and Yin, Hui and Wu, Xinyi and Wu, Zhenyao and Mi, Yang and Wang, Song},
+  booktitle={CVPR},
+  year={2021}
+}
+```
+
 ## 其他说明
 有问题可以联系我
 +86 18410949118
 刘志浩
+
+
