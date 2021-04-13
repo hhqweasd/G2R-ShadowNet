@@ -46,6 +46,12 @@ GoogleDrive: [ISTD](https://drive.google.com/file/d/1qDhKWeihp6dqzINrtdkwc4SIkzx
 
 BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1fQ4f6zFBkqUwnimA4k1M1A) (Access code: 1111)
 
+## Results of G2R-ShadowNet-_Sup._ on ISTD
+
+GoogleDrive: [ISTD](https://drive.google.com/file/d/1Q1dIyGIOxPpi9yk8ibrcIPIH0G2IqE2e/view?usp=sharing)
+
+BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1JWvz0KVjkbQmcoHENuGc4w) (Access code: 1111)
+
 
 ## ISTD Results (size: 480x640)
 | Method | Shadow Region | Non-shadow Region | All |
