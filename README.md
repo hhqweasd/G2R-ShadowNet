@@ -13,6 +13,13 @@ GoogleDrive: [ISTD](https://drive.google.com/file/d/1az6HF6VTD6w1AcEFzW4RstAEZgj
 
 BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1TppO4RqehJBh-TEIseYErA) (Access code: 1111)
 
+## Testing masks produced by BDRAR
+
+GoogleDrive: [ISTD](https://drive.google.com/file/d/1fx7PODULpfRD6dsatvpsNpKoHKeYks7J/view?usp=sharing)
+
+BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1iPh-oR_gttrIkm72S0H-ug) (Access code: 1111)
+
+
 ## Train and test on the adjusted ISTD dataset
 Train 
 1. Set the path of the dataset in ```train.py```
