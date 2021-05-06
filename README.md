@@ -7,11 +7,11 @@ This code uses the following libraries
 - pytorch 1.1+ & tochvision
 - scikit-image
 
-## Training data
+## Training code and data
 
-GoogleDrive: [ISTD](https://drive.google.com/file/d/1az6HF6VTD6w1AcEFzW4RstAEZgjTqzPB/view?usp=sharing)
+Generate the training data using the original ISTD dataset and the code ```gettraindata.m```
 
-BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1TppO4RqehJBh-TEIseYErA) (Access code: 1111)
+or download the training data from: GoogleDrive: [ISTD](https://drive.google.com/file/d/1az6HF6VTD6w1AcEFzW4RstAEZgjTqzPB/view?usp=sharing) | BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1TppO4RqehJBh-TEIseYErA) (Access code: 1111)
 
 ## Testing masks produced by BDRAR
 
