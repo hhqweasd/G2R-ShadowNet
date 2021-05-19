@@ -13,6 +13,18 @@ Generate the training data using the original ISTD dataset and the code ```gettr
 
 or download the training data from: GoogleDrive: [ISTD](https://drive.google.com/file/d/1az6HF6VTD6w1AcEFzW4RstAEZgjTqzPB/view?usp=sharing) | BaiduNetdisk: [ISTD](https://pan.baidu.com/s/1TppO4RqehJBh-TEIseYErA) (Access code: 1111)
 
+Your `~/PAISTD8/` folder should look like this
+```
+PAISTD8
+├── train/
+    ├── train_A/
+    │   └── 90-1.png
+    │   └── ...
+    ├── train_B/
+    │   └── ...
+    └── ...
+```
+
 ## Testing masks produced by BDRAR
 
 GoogleDrive: [ISTD](https://drive.google.com/file/d/1fx7PODULpfRD6dsatvpsNpKoHKeYks7J/view?usp=sharing)
