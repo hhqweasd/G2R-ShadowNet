@@ -87,9 +87,4 @@ All codes will be released to public soon.
 }
 ```
 
-## 其他说明
-有问题可以联系我
-+86 18410949118
-刘志浩
-
 
