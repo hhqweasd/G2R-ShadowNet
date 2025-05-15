@@ -1,3 +1,5 @@
+回复不及时请联系这个邮箱哈：zhihao_bj@139.com
+
 # G2R-ShadowNet
 [From Shadow Generation to Shadow Removal.](https://arxiv.org/abs/2103.12997)
 
